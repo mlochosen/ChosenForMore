@@ -14,7 +14,7 @@ import { goto } from '$app/navigation';
 			<div class="hero-content text-center">
 			  <div class="text-center ml-12">
 				<h2 class="mb-5 text-5xl font-bold text-white">This Week's Schedule</h2>
-                <h2 class="mt-2 text-4xl font-bold text-white">(August 25 - August 29) </h2>
+                <h2 class="mt-2 text-4xl font-bold text-white">(August 24 - August 29) </h2>
 			  </div>
 			</div>
 </div>
